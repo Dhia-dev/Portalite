@@ -20,9 +20,7 @@
 
 ![Notus NextJS](https://github.com/OunifiSamir/Pim_PS/blob/main/Portalite/uploads/11.png?raw=true)
 
-# Profile Salariee 
 
-![Notus NextJS](https://github.com/OunifiSamir/Pim_PS/blob/main/Portalite/uploads/3.png?raw=true)
 
 # Compte rendu d'activitee 
 
